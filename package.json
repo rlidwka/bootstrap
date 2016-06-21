@@ -78,7 +78,8 @@
   "files": [
     "dist",
     "grunt",
-    "js/*.js",
+    "js/dist",
+    "js/src",
     "scss/**/*.scss",
     "Gruntfile.js",
     "LICENSE"
